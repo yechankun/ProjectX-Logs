@@ -1,0 +1,21 @@
+/home/vsts/work/1
+├── TestResults
+├── a
+├── b
+└── s
+    ├── 7ba8a3ff748ca602e237feba15dc0c6b18f83e5c.txt
+    ├── README.md
+    └── azure-pipelines.yml
+
+4 directories, 3 files
+commit 7ba8a3ff748ca602e237feba15dc0c6b18f83e5c
+Author: 장예찬 <redniche@naver.com>
+Date:   Wed Dec 27 15:07:34 2023 +0000
+
+    ci: Update azure-pipelines.yml for Azure Pipelines
+    
+    불필요한 mkdir 제거 및 CI 구성 설정 버그 수정
+
+.gitignore
+README.md
+azure-pipelines.yml
